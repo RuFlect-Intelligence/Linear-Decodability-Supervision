@@ -13,6 +13,10 @@ dependencies = ["torch>=2.1"]
 
 [project.optional-dependencies]
 dev = ["pytest"]
+data = ["numpy", "av", "pillow"]
+openwam = ["numpy", "av", "pillow", "deepspeed", "safetensors"]
+lingbot = ["numpy", "av", "pillow", "deepspeed", "safetensors", "scipy"]
+internw0 = ["numpy", "pandas", "pyarrow", "deepspeed"]
 
 [tool.setuptools.packages.find]
 where = ["src"]

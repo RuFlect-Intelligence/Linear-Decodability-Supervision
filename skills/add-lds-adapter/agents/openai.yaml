@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add LDS Adapter"
+  short_description: "Bind a new world-action model to LDS training"
+  default_prompt: "Use $add-lds-adapter to add Linear-Decodability Supervision to my policy."
