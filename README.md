@@ -4,12 +4,14 @@
 
 **Linear-Decodability Supervision (LDS)**
 
-[Project Page](https://ruflect-intelligence.github.io/LDS-Homepage/) ·
-arXiv *(coming soon)* ·
-[Checkpoints](#model-checkpoints) ·
-[RoboTwin-IF Code](https://github.com/RuFlect-Intelligence/RoboTwin-IF) ·
-[RoboTwin-IF Dataset](https://huggingface.co/datasets/RuFlect/RoboTwin-IF) ·
-[ModelScope](https://www.modelscope.ai/organization/Ruflect-Intelligence)
+[![Project page](https://img.shields.io/badge/Project-Page-2563EB?style=for-the-badge)](https://ruflect-intelligence.github.io/LDS-Homepage/)
+![arXiv coming soon](https://img.shields.io/badge/arXiv-Coming_soon-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)
+[![GitHub LDS code](https://img.shields.io/badge/GitHub-LDS_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RuFlect-Intelligence/Linear-Decodability-Supervision)
+[![Hugging Face checkpoints](https://img.shields.io/badge/HF-Checkpoints-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#model-checkpoints)
+
+[![GitHub RoboTwin-IF code](https://img.shields.io/badge/GitHub-RoboTwin--IF_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RuFlect-Intelligence/RoboTwin-IF)
+[![Hugging Face RoboTwin-IF dataset](https://img.shields.io/badge/HF-RoboTwin--IF_Dataset-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/RuFlect/RoboTwin-IF)
+[![ModelScope mirrors](https://img.shields.io/badge/ModelScope-Mirrors-624AFF?style=for-the-badge)](https://www.modelscope.ai/organization/Ruflect-Intelligence)
 
 ![Overview of LDS, prior–instruction competition, and amplification of the instruction signal.](https://ruflect-intelligence.github.io/LDS-Homepage/static/img/paper/main.png)
 
