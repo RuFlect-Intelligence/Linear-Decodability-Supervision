@@ -5,7 +5,7 @@
 **Linear-Decodability Supervision (LDS)**
 
 [![Project page](https://img.shields.io/badge/Project-Page-2563EB?style=for-the-badge)](https://ruflect-intelligence.github.io/LDS-Homepage/)
-![arXiv coming soon](https://img.shields.io/badge/arXiv-Coming_soon-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)
+[![arXiv 2611.27401](https://img.shields.io/badge/arXiv-2611.27401-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2611.27401)
 [![GitHub LDS code](https://img.shields.io/badge/GitHub-LDS_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RuFlect-Intelligence/Linear-Decodability-Supervision)
 [![Hugging Face checkpoints](https://img.shields.io/badge/HF-Checkpoints-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#model-checkpoints)
 
